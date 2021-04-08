@@ -7,5 +7,5 @@ link to my github account: https://github.com/kaivont85/HW-1-01-HTML-CSS-and-Git
 
 
 Screenshot of Deployed Website
-![my sample screenshot](Images\Screenshot.png)
+![my sample screenshot](./Images/Screenshot.png)
 
